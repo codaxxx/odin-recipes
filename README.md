@@ -7,5 +7,4 @@ Things I learned:
 "<img src="{location}" alt={"example text"} style="width: 4px; height: 4px;px;">"
 - specifying the px dimensions. Especially useful for svg files.
 
-"<a href="location" rel="noopener noferrer">{Link Name}</a>"
 - the noopener noreferrer thing. 
